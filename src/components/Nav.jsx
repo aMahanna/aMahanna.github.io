@@ -26,7 +26,6 @@ export default class Nav extends React.Component {
                                     <img src={MenuIconDark} style={{ height: '20px' }} />
                                 }
                             </button>
-                            <a className="navbar-brand font-grey" href="#">~</a>
                             <ul className="nav navbar-nav">
                                 {
                                     this.props.darkMode &&
@@ -44,6 +43,7 @@ export default class Nav extends React.Component {
                                         </a>
                                     </li>
                                 }
+                                <li><a className="navbar-brand font-grey" href="#">~</a></li>
                             </ul>
                         </div>
                         <div id="navbar" className="collapse navbar-collapse navbar-right">
