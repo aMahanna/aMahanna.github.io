@@ -37,7 +37,7 @@ export default class Nav extends React.Component {
                                     this.props.darkMode &&
                                     <li>
                                         <a className="navbar-brand darkmode" onClick={this.props.toggleDarkMode}>
-                                            <img alt="Brand" src={ModeDark} style={{height:"100%"}} />
+                                            <img alt="Brand" src={ModeDark} style={{float:"right", clear:"right", height: "100%" }} />
                                         </a>
                                     </li>
                                 }
@@ -45,7 +45,7 @@ export default class Nav extends React.Component {
                                     !this.props.darkMode &&
                                     <li>
                                         <a className="navbar-brand darkmode" onClick={this.props.toggleDarkMode}>
-                                            <img alt="Brand" src={ModeLight} style={{height:"100%"}} />
+                                            <img alt="Brand" src={ModeLight} style={{float:"right", clear:"right", height: "100%"}} />
                                         </a>
                                     </li>
                                 }
