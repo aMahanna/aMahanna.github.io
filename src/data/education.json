@@ -1,0 +1,10 @@
+[
+    {
+        "school": "University of Ottawa",
+        "schoolUrl": "https://engineering.uottawa.ca/",
+        "program": "Honours BSc. Computer Science",
+        "image": "/img/uottawa.png",
+        "imageDark": "/img/uottawa-dark.png",
+        "description": "<ul> <li>In Progress</li> <li>Current CGPA: 9.67/10</li> <li>Activities & Clubs: <a href=https://engineering.uottawa.ca/CEED>CEED</a>, <a href=https://engineering.uottawa.ca/makermobile>Maker Mobile</a>, <a https://www.cssa-aei.ca/about/>CSSA</a></li> </ul>"
+    }
+]               

@@ -1,0 +1,19 @@
+[{
+        "title": "Trigo",
+        "description": "",
+        "image": "/img/trigo.jpeg",
+        "link": "https://glitch.com/~trigo"
+    },
+    {
+        "title": "Rube's Wiki",
+        "description": "",
+        "image": "/img/rubeswiki.png",
+        "link": "https://glitch.com/~rubeswiki"
+    },
+    {
+        "title": "Personal Site",
+        "description": "",
+        "image": "/img/personal.png",
+        "link": "https://amahanna.ca"
+    }
+]
