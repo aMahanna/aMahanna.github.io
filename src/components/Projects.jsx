@@ -12,7 +12,7 @@ export default class Projects extends React.Component {
             <div className="projects">
                 {
                     project_data.map((project,i)=> {
-                        return (<Project key={i} index={i} {...project} />)
+                        return (<Project key={i} index={i} {...project} darkMode={this.props.darkMode} />)
                     })
                 }
             </div>

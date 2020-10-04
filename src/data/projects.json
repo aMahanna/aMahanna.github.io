@@ -2,18 +2,21 @@
         "title": "Trigo",
         "description": "",
         "image": "/img/trigo.jpeg",
+        "imageDark": "/img/trigo-dark.jpeg",
         "link": "https://glitch.com/~trigo"
     },
     {
         "title": "Rube's Wiki",
         "description": "",
         "image": "/img/rubeswiki.png",
+        "imageDark": "/img/rubeswiki.png",
         "link": "https://glitch.com/~rubeswiki"
     },
     {
         "title": "Personal Site",
         "description": "",
         "image": "/img/personal.png",
-        "link": "https://amahanna.ca"
+        "imageDark": "/img/personal-dark.png",
+        "link": "https://amahanna.github.io"
     }
 ]

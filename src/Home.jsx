@@ -11,7 +11,7 @@ import "./styles/home.scss";
 import "./styles/HomeSection.scss";
 import "./styles/DarkMode.scss";
 
-export default class Hello extends React.Component {
+export default class Home extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -39,7 +39,7 @@ export default class Hello extends React.Component {
                     <Internships darkMode={this.state.darkMode} />
                 </div>
                 <div className="page" id="Projects">
-                    <Projects />
+                    <Projects darkMode={this.state.darkMode} />
                 </div>               
                 <Footer />
             </div>

@@ -8,11 +8,11 @@
         "description": "Solace PubSub+ Cloud is a web-based managed software-as-a-service that is comprised of two independent services: the Event Mesh, and the Event Portal. I worked on the Event Portal service, which is a web-based platform used to design, create, and visualize the ecosystem of  event-driven architectures. There I was able to develop <b>Java</b> applications in a microservice-based backend, create REST APIs and endpoints that interact with <b>MySql</b> databases, and implement UI/UX features using  <b>Aurelia</b>, <b>Javascript</b>, <b>HTML</b> and <b>SCSS</b>."
     },
     {
-        "company": "Mitel Networks - Cloudlink Platform",
+        "company": "Mitel Networks",
         "companyUrl": "https://mitel.help/latest/en/cloudlink-gateway/overview/what-is-cloudlink",
         "image": "/img/mitel.png",
         "imageDark": "/img/mitel-dark.png",
         "role": "DevOps Engineer",
-        "description": "Cloudlink is a cloud-first unified communications API platform based on AWS. Implemented using  serverless techniques and technologies, with containerized workloads for SIP and SMS communications, the Cloudlink platform serves as the communications backbone for dozens of Mitel applications. As a DevOps Engineer, I designed and implemented a CICD pipeline system using <b>Typescript</b> and <b>Amazon Web Services</b> to build, test and deploy CloudLink SDKs. <br/> <br/> I relied extensively on the <b>AWS SDK</b>, the <b>Octokit Github REST API</b>, <b>JFrog Artifactory</b>, and AWS resources such as <b>Lambda</b>, <b>Codebuild</b>, <b>S3</b>, <b>Cloudformation</b> & <b>Cloudwatch</b>."
+        "description": "As a DevOps Engineer, I designed and implemented a CICD pipeline system using <b>Typescript</b> and <b>Amazon Web Services</b> to build, test and deploy Mitel CloudLink SDKs. Cloudlink is a cloud-first unified communications API platform based on AWS. Implemented using  serverless techniques and technologies, with containerized workloads for SIP and SMS communications, the Cloudlink platform serves as the communications backbone for dozens of Mitel applications. I had hands-on experience with the <b>AWS SDK</b>, the <b>Octokit Github REST API</b>, <b>JFrog Artifactory</b>, and AWS resources such as <b>Lambda</b>, <b>Codebuild</b>, <b>S3</b>, <b>Cloudformation</b> & <b>Cloudwatch</b>."
     }
 ]
