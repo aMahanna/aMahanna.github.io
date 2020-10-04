@@ -6,7 +6,7 @@ body {
 }
 
 .page {
-    height: 70vh;
+    height: 80vh;
     @media (max-width: $screen-lg) {
         grid-template-columns: auto auto;
     }
