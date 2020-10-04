@@ -26,7 +26,13 @@ export default class Nav extends React.Component {
                                     <img src={MenuIconDark} style={{ height: '20px' }} />
                                 }
                             </button>
+                            <a className="navbar-brand font-grey" href="#">~</a>
+                        </div>
+                        <div id="navbar" className="collapse navbar-collapse navbar-right">
                             <ul className="nav navbar-nav">
+                                <li><a href="#Education" className="font-grey">Education</a></li>
+                                <li><a href="#Internships" className="font-grey">Internships</a></li>
+                                <li><a href="#Projects" className="font-grey">Projects</a></li>
                                 {
                                     this.props.darkMode &&
                                     <li>
@@ -43,16 +49,9 @@ export default class Nav extends React.Component {
                                         </a>
                                     </li>
                                 }
-                                <li><a className="navbar-brand font-grey" href="#">~</a></li>
                             </ul>
                         </div>
-                        <div id="navbar" className="collapse navbar-collapse navbar-right">
-                            <ul className="nav navbar-nav">
-                                <li><a href="#Education" className="font-grey">Education</a></li>
-                                <li><a href="#Internships" className="font-grey">Internships</a></li>
-                                <li><a href="#Projects" className="font-grey">Projects</a></li>
-                            </ul>
-                        </div>
+                        
                     </div>
                 </nav>
             </div>
