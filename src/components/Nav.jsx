@@ -12,7 +12,7 @@ export default class Nav extends React.Component {
     render() {
         return (
             <div>
-                <nav className="navbar navbar-white navbar-default navbar-fixed-top hidden-desktop">
+                <nav className="navbar navbar-white navbar-default navbar-fixed-top">
                     <div className="container">
                         <div className="navbar-header">
                             <button type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -26,6 +26,7 @@ export default class Nav extends React.Component {
                                     <img src={MenuIconDark} style={{ height: '20px' }} />
                                 }
                             </button>
+                            <a className="navbar-brand font-grey" href="#">~</a>
                         </div>
                         <div id="navbar" className="collapse navbar-collapse navbar-right">
                             <ul className="nav navbar-nav">
@@ -46,6 +47,7 @@ export default class Nav extends React.Component {
                                 <span className="icon-bar font-grey"></span>
                                 <span className="icon-bar font-grey"></span>
                             </button>
+                            <a className="navbar-brand font-grey" href="#">~</a>
                         </div>
                         <div id="navbar" className="collapse navbar-collapse navbar-right">
                             <ul className="nav navbar-nav">
