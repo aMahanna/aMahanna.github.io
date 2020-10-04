@@ -19,11 +19,11 @@ export default class Nav extends React.Component {
                                 <span className="sr-only">Toggle navigation</span>
                                 {
                                     !this.props.darkMode &&
-                                    <img src={MenuIconLight} style={{ height: '20px' }} />
+                                    <img src={MenuIconLight} style={{ height: '20px' }}  className="container-div"  />
                                 }
                                 {
                                     this.props.darkMode &&
-                                    <img src={MenuIconDark} style={{ height: '20px' }} />
+                                    <img src={MenuIconDark} style={{ height: '20px' }}  className="container-div" />
                                 }
                             </button>
                             <a className="navbar-brand font-grey" href="#">~</a>
