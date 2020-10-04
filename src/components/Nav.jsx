@@ -27,17 +27,12 @@ export default class Nav extends React.Component {
                                 }
                             </button>
                             <a className="navbar-brand font-grey" href="#">~</a>
-                        </div>
-                        <div id="navbar" className="collapse navbar-collapse navbar-right">
                             <ul className="nav navbar-nav">
-                                <li><a href="#Education" className="font-grey">Education</a></li>
-                                <li><a href="#Internships" className="font-grey">Internships</a></li>
-                                <li><a href="#Projects" className="font-grey">Projects</a></li>
                                 {
                                     this.props.darkMode &&
                                     <li>
                                         <a className="navbar-brand darkmode" onClick={this.props.toggleDarkMode}>
-                                            <img alt="Brand" src={ModeDark} style={{float:"right", clear:"right", height: "100%" }} />
+                                            <img alt="Brand" src={ModeDark} style={{height: "100%" }} />
                                         </a>
                                     </li>
                                 }
@@ -45,10 +40,17 @@ export default class Nav extends React.Component {
                                     !this.props.darkMode &&
                                     <li>
                                         <a className="navbar-brand darkmode" onClick={this.props.toggleDarkMode}>
-                                            <img alt="Brand" src={ModeLight} style={{float:"right", clear:"right", height: "100%"}} />
+                                            <img alt="Brand" src={ModeLight} style={{height: "100%"}} />
                                         </a>
                                     </li>
                                 }
+                            </ul>
+                        </div>
+                        <div id="navbar" className="collapse navbar-collapse navbar-right">
+                            <ul className="nav navbar-nav">
+                                <li><a href="#Education" className="font-grey">Education</a></li>
+                                <li><a href="#Internships" className="font-grey">Internships</a></li>
+                                <li><a href="#Projects" className="font-grey">Projects</a></li>
                             </ul>
                         </div>
                     </div>
