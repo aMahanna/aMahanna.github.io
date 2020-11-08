@@ -3,20 +3,27 @@
         "description": "",
         "image": "/img/trigo.jpeg",
         "imageDark": "/img/trigo-dark.jpeg",
-        "link": "http://trigo.glitch.me/"
+        "link": "https://github.com/aMahanna/trigo"
     },
     {
         "title": "Rube's Wiki",
         "description": "",
         "image": "/img/rubeswiki.png",
         "imageDark": "/img/rubeswiki.png",
-        "link": "http://rubeswiki.glitch.me/"
+        "link": "https://github.com/aMahanna/rubeswiki"
     },
     {
-        "title": "Personal Site",
+        "title": "This!",
         "description": "",
         "image": "/img/personal.png",
         "imageDark": "/img/personal-dark.png",
-        "link": "https://mahanna.dev/"
+        "link": "https://github.com/aMahanna/aMahanna.github.io"
+    },
+    {
+        "title": "CSSA Website",
+        "description": "",
+        "image": "/img/cssa.png",
+        "imageDark": "/img/cssa.png",
+        "link": "https://www.cssa-aei.ca/"
     }
 ]

@@ -1,7 +1,7 @@
 @import 'media';
 .project {
-    height: 250px;
-    background-color: red;
+    height: 200px;
+    background-color: white;
     cursor: pointer;
     &.not-mobile {
         @media (max-width: $screen-lg) {
@@ -14,8 +14,8 @@
         box-sizing: border-box;
         background-color: rgba(0, 0, 0, 0);
         color: transparent;
-        font-size: 32px;
-        font-weight: 500;
+        font-size: 26px;
+        font-weight: 300;
         @media (max-width: $screen-lg) {
             grid-template-columns: auto auto;
         }
@@ -25,7 +25,7 @@
             justify-content: center;
             align-items: center;
             color: white;
-            font-size: 32px;
+            font-size: 26px;
             font-weight: 500;
         }
     }
@@ -35,7 +35,7 @@
         justify-content: center;
         align-items: center;
         color: white;
-        font-size: 32px;
+        font-size: 26px;
         font-weight: 500;
     }
     /* Add shadows to create the "card" effect */
