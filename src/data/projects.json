@@ -3,20 +3,20 @@
         "description": "",
         "image": "/img/trigo.jpeg",
         "imageDark": "/img/trigo-dark.jpeg",
-        "link": "https://glitch.com/~trigo"
+        "link": "http://trigo.glitch.me/"
     },
     {
         "title": "Rube's Wiki",
         "description": "",
         "image": "/img/rubeswiki.png",
         "imageDark": "/img/rubeswiki.png",
-        "link": "https://glitch.com/~rubeswiki"
+        "link": "http://rubeswiki.glitch.me/"
     },
     {
         "title": "Personal Site",
         "description": "",
         "image": "/img/personal.png",
         "imageDark": "/img/personal-dark.png",
-        "link": "https://amahanna.github.io"
+        "link": "https://mahanna.dev/"
     }
 ]
