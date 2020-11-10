@@ -1,8 +1,11 @@
 @import 'media';
 .project {
-    height: 200px;
+    height: 22em;
     background-color: white;
     cursor: pointer;
+    @media (max-width: $screen-xlg) {
+        height: 14em;
+    }
     &.not-mobile {
         @media (max-width: $screen-lg) {
             display: none;
