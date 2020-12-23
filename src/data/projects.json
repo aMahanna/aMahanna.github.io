@@ -1,16 +1,17 @@
-[{
-        "title": "Trigo",
-        "description": "",
-        "image": "/img/trigo.jpeg",
-        "imageDark": "/img/trigo-dark.jpeg",
-        "link": "http://trigo.glitch.me/"
-    },
+[   
     {
         "title": "Rube's Wiki",
         "description": "",
         "image": "/img/rubeswiki.png",
         "imageDark": "/img/rubeswiki.png",
         "link": "http://rubeswiki.glitch.me/"
+    },
+    {
+        "title": "Trigo",
+        "description": "",
+        "image": "/img/trigo.jpeg",
+        "imageDark": "/img/trigo-dark.jpeg",
+        "link": "http://trigo.glitch.me/"
     },
     {
         "title": "You are here",
