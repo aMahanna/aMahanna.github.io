@@ -1,0 +1,23 @@
+[
+    {
+        "title": "CSSA Website",
+        "description": "",
+        "image": "/img/cssa.png",
+        "imageDark": "/img/cssa.png",
+        "link": "https://www.cssa-aei.ca/"
+    },
+    {
+        "title": "uOEng Discord Bot",
+        "description": "",
+        "image": "/img/discord.png",
+        "imageDark": "/img/discord.png",
+        "link": "https://github.com/ieee-uottawa/SITE-Bot"
+    },
+    {
+        "title": "uOPetition",
+        "description": "",
+        "image": "/img/sus.png",
+        "imageDark": "/img/sus.png",
+        "link": "https://upetition.ca/"
+    }
+]

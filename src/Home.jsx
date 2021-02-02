@@ -5,6 +5,7 @@ import Nav from './components/Nav'
 import Education from "./components/Education";
 import Internships from "./components/Internships";
 import Projects from './components/Projects'
+import Contributions from './components/Contributions'
 import Footer from "./components/Footer";
 
 import "./styles/home.scss";
@@ -40,7 +41,10 @@ export default class Home extends React.Component {
                 </div>
                 <div className="page" id="Projects">
                     <Projects darkMode={this.state.darkMode} />
-                </div>               
+                </div>       
+                <div className="page" id="Contributions">
+                    <Contributions darkMode={this.state.darkMode} />
+                </div>          
                 <Footer />
             </div>
         );

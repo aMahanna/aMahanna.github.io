@@ -19,12 +19,5 @@
         "image": "/img/personal.png",
         "imageDark": "/img/personal-dark.png",
         "link": "https://github.com/aMahanna/aMahanna.github.io"
-    },
-    {
-        "title": "CSSA Website",
-        "description": "",
-        "image": "/img/cssa.png",
-        "imageDark": "/img/cssa.png",
-        "link": "https://www.cssa-aei.ca/"
     }
 ]

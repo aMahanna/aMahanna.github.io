@@ -45,6 +45,7 @@ export default class Nav extends React.Component {
                                 <li><a href="#Education" className="font-grey">Education</a></li>
                                 <li><a href="#Internships" className="font-grey">Internships</a></li>
                                 <li><a href="#Projects" className="font-grey">Projects</a></li>
+                                <li><a href="#Contributions" className="font-grey">Contributions</a></li>
                             </ul>
                         </div>
                     </div>
