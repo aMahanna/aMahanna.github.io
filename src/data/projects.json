@@ -1,5 +1,12 @@
 [   
     {
+        "title": "CSSA Elections",
+        "description": "",
+        "image": "/img/elections.png",
+        "imageDark": "/img/elections.png",
+        "link": "https://mahanna.dev/cssaaei-elections"
+    },
+    {
         "title": "RBWiki",
         "description": "",
         "image": "/img/rubeswiki.png",
