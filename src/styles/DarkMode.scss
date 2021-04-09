@@ -1,7 +1,7 @@
-@import 'media';
-@import 'colors';
+@import "media";
+@import "colors";
 .dark-mode {
-    background-color: $darkmode-background;
+  background-color: $darkmode-background;
 }
 
 .dark-mode h1,
@@ -12,11 +12,11 @@
 .dark-mode p,
 .dark-mode span,
 .dark-mode a {
-    color: white !important;
+  color: white !important;
 }
 
 .dark-mode h2 {
-    color: $font-light-grey !important;
+  color: $font-light-grey !important;
 }
 
 .dark-mode h1.font-grey,
@@ -27,14 +27,14 @@
 .dark-mode p.font-grey,
 .dark-mode span.font-grey,
 .dark-mode a.font-grey {
-    color: white !important;
+  color: white !important;
 }
 
 .dark-mode .navbar.navbar-white {
-    background-color: $darkmode-background;
+  background-color: $darkmode-background;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: transparent!important;
+  background-color: transparent !important;
 }
