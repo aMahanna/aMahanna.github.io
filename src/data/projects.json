@@ -1,5 +1,12 @@
 [   
     {
+        "title": "Picsum Vision",
+        "description": "",
+        "image": "/img/picsumvision.svg",
+        "imageDark": "/img/picsumvision.svg",
+        "link": "https://picsumvision.mahanna.dev/"
+    },
+    {
         "title": "CSSA Elections",
         "description": "",
         "image": "/img/elections.png",
@@ -19,12 +26,5 @@
         "image": "/img/trigo.jpeg",
         "imageDark": "/img/trigo-dark.jpeg",
         "link": "https://mahanna.dev/trigo"
-    },
-    {
-        "title": "You are here",
-        "description": "",
-        "image": "/img/personal.png",
-        "imageDark": "/img/personal-dark.png",
-        "link": "https://github.com/aMahanna/aMahanna.github.io"
     }
 ]
