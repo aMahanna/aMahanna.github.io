@@ -1,5 +1,12 @@
 [   
     {
+        "title": "uOScheduleStacker",
+        "description": "",
+        "image": "/img/uoss.png",
+        "imageDark": "/img/uoss-dark.png",
+        "link": "https://www.uoschedulestacker.com/"
+    },
+    {
         "title": "Picsum Vision",
         "description": "",
         "image": "/img/picsumvision.svg",
