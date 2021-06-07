@@ -1,5 +1,13 @@
 [
     {
+        "company": "Assent Compliance",
+        "companyUrl": "https://www.assentcompliance.com/compliance-software/",
+        "image": "/img/assent.png",
+        "imageDark": "/img/assent-dark.png",
+        "role": "Software Developer",
+        "description": "In progress. Currently working with Typescript, Ansible, Docker, Jenkins, and Pendo."
+    },
+    {
         "company": "Solace Cloud",
         "companyUrl": "https://solace.com/products/portal/",
         "image": "/img/solace.png",
