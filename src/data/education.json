@@ -3,8 +3,8 @@
         "school": "University of Ottawa",
         "schoolUrl": "https://engineering.uottawa.ca/",
         "program": "Honours BSc. Computer Science",
-        "image": "/img/uottawa.png",
-        "imageDark": "/img/uottawa-dark.png",
+        "image": "/img/education/light/uottawa.png",
+        "imageDark": "/img/education/dark/uottawa.png",
         "description": "<ul> <li>Year: 3</li> <li>GPA: 3.97/4</li> <li>Extracurricular: <a href=https://engineering.uottawa.ca/CEED>CEED</a>, <a href=https://engineering.uottawa.ca/makermobile>Maker Mobile</a>, <a href=https://www.cssa-aei.ca/about/>CSSA</a> </li> </ul>"
     }
 ]               

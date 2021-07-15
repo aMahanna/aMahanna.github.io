@@ -2,36 +2,31 @@
     {
         "title": "uOScheduleStacker",
         "description": "",
-        "image": "/img/uoss.png",
-        "imageDark": "/img/uoss-dark.png",
+        "image": "/img/projects/uoss.png",
         "link": "https://www.uoschedulestacker.com/"
     },
     {
         "title": "Picsum Vision",
         "description": "",
-        "image": "/img/picsumvision.svg",
-        "imageDark": "/img/picsumvision.svg",
+        "image": "/img/projects/picsumvision.svg",
         "link": "https://picsumvision.mahanna.dev/"
     },
     {
         "title": "CSSA Elections",
         "description": "",
-        "image": "/img/elections.png",
-        "imageDark": "/img/elections.png",
+        "image": "/img/projects/elections.png",
         "link": "https://mahanna.dev/cssaaei-elections"
     },
     {
         "title": "RBWiki",
         "description": "",
-        "image": "/img/rubeswiki.png",
-        "imageDark": "/img/rubeswiki.png",
+        "image": "/img/projects/rbwiki.png",
         "link": "https://mahanna.dev/RBWiki"
     },
     {
         "title": "Trigo",
         "description": "",
-        "image": "/img/trigo.jpeg",
-        "imageDark": "/img/trigo-dark.jpeg",
+        "image": "/img/projects/trigo.jpeg",
         "link": "https://mahanna.dev/trigo"
     }
 ]

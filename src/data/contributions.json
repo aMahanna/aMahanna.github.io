@@ -2,22 +2,19 @@
     {
         "title": "CSSA Website",
         "description": "",
-        "image": "/img/cssa.png",
-        "imageDark": "/img/cssa.png",
+        "image": "/img/contributions/cssa.png",
         "link": "https://www.cssa-aei.ca/"
     },
     {
         "title": "SITE Discord Bot",
         "description": "",
-        "image": "/img/discord.png",
-        "imageDark": "/img/discord.png",
+        "image": "/img/contributions/discord.png",
         "link": "https://github.com/ieee-uottawa/SITE-Bot"
     },
     {
         "title": "uOPetition",
         "description": "",
-        "image": "/img/sus.png",
-        "imageDark": "/img/sus.png",
+        "image": "/img/contributions/sus.png",
         "link": "https://github.com/upetition/Stop-uOttawa-Surveillance"
     }
 ]
