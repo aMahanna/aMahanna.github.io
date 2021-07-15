@@ -5,8 +5,8 @@
   background-color: white;
   cursor: pointer;
   @media (max-width: $screen-md) {
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 350px;
   }
   > .hover-span {
     width: 100%;
@@ -23,7 +23,7 @@
       justify-content: center;
       align-items: center;
       color: white;
-      font-size: 15px;
+      font-size: 25px;
       font-weight: 300;
     }
   }
