@@ -1,7 +1,6 @@
 import React from "react";
 import Contribution from '../components/Contribution';
 
-import "../styles/JumboCenter.scss";
 import '../styles/Projects.scss'
 
 import contribution_data from '../data/contributions.json';

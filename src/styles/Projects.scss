@@ -13,7 +13,7 @@
 .projects {
   display: grid;
   width: 100%;
-  padding-top: 10%;
+  padding-top: 5%;
   padding-left: 15%;
   padding-right: 15%;
   padding-bottom: 40px;
@@ -22,7 +22,7 @@
   @media (max-width: $screen-lg) {
     padding-top: 200px;
     padding-bottom: 200px;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
   @media (max-width: $screen-md) {
     padding-top: 100px;

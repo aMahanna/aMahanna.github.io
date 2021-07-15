@@ -1,6 +1,7 @@
 @import "media";
 .project {
-  height: 40vh;
+  height: 300px;
+  width: 300px;
   background-color: white;
   cursor: pointer;
   &.not-mobile {

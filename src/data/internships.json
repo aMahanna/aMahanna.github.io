@@ -4,22 +4,23 @@
         "companyUrl": "https://www.assentcompliance.com/compliance-software/",
         "image": "/img/assent.png",
         "imageDark": "/img/assent-dark.png",
-        "role": "Software Developer",
-        "description": "In progress. Currently working with Typescript, Ansible, Docker, Jenkins, and Pendo."
+        "role": "DevOps Engineer - Summer 2021",
+        "description": "Improving environment provisioning of the Assent Compliance Platform."
     },
     {
         "company": "Solace Cloud",
         "companyUrl": "https://solace.com/products/portal/",
         "image": "/img/solace.png",
         "imageDark": "/img/solace.png",
-        "role": "Software Developer",
-        "description": "Solace PubSub+ Cloud is a web-based managed software-as-a-service that is comprised of two independent services: the Event Mesh, and the Event Portal. I worked on the Event Portal service, which is a web-based platform used to design, create, and visualize the ecosystem of  event-driven architectures. There I was able to develop <b>Java</b> applications in a microservice-based backend, create REST APIs and endpoints that interact with <b>MySql</b> databases, and implement UI/UX features using  <b>Aurelia</b>, <b>Javascript</b>, <b>HTML</b> and <b>SCSS</b>."
+        "role": "Software Developer - Summer 2020",
+        "description": "Contributed to the development & release of the Event Portal Service."
     },
     {
         "company": "Mitel Networks",
         "companyUrl": "https://mitel.help/latest/en/cloudlink-gateway/overview/what-is-cloudlink",
         "image": "/img/mitel.png",
         "imageDark": "/img/mitel-dark.png",
-        "role": "DevOps Engineer",
-        "description": "As a DevOps Engineer, I designed and implemented a CICD pipeline system using <b>Typescript</b> and <b>Amazon Web Services</b> to build, test and deploy Mitel CloudLink SDKs. I had hands-on experience with the <b>AWS SDK</b>, the <b>Octokit Github REST API</b>, <b>JFrog Artifactory</b>, and AWS resources such as <b>Lambda</b>, <b>Codebuild</b>, <b>S3</b>, <b>Cloudformation</b> & <b>Cloudwatch</b>. For context, Cloudlink is a cloud-first unified communications API platform that serves as the communications backbone for dozens of Mitel applications. Built on AWS, it is implemented using serverless techniques & technologies, with containerized workloads for SIP and SMS communications."    }
+        "role": "DevOps Engineer - Summer 2019",
+        "description": "Designed & implemented CICD orchestration for the CloudLink platform."    
+    }
 ]
