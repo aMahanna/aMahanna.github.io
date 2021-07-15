@@ -3,7 +3,7 @@ import '../styles/project.scss'
 
 export default function Company(props) {
     return (
-        <div className="item" style={{paddingBottom:"50px"}}>
+        <div className="item" style={{paddingBottom:"30px"}}>
             <div className="image">
                 {
                     props.darkMode &&
