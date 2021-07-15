@@ -8,7 +8,7 @@ export default function Contribution(props) {
         backgroundRepeat: 'no-repeat',
     }
     return (
-        <div className={props.index < 4?"project card":"project card not-mobile"} style={contributionStyle}> 
+        <div className="project card" style={contributionStyle}> 
             <div onClick={() => window.location.href=props.link} className="hover-span">{props.title}
             </div>
         </div>
