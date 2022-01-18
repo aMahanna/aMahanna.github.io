@@ -4,27 +4,27 @@
         "companyUrl": "https://www.arangodb.com/",
         "image": "/img/internships/light/arango.png",
         "imageDark": "/img/internships/dark/arango.png",
-        "role": "Software Engineer - Fall 2021",
+        "role": "Software Engineer - Fall 2021"
     },
     {
         "company": "Assent Compliance",
         "companyUrl": "https://www.assentcompliance.com/compliance-software/",
         "image": "/img/internships/light/assent.png",
         "imageDark": "/img/internships/dark/assent.png",
-        "role": "DevOps Engineer - Summer 2021",
+        "role": "DevOps Engineer - Summer 2021"
     },
     {
         "company": "Solace Cloud",
         "companyUrl": "https://solace.com/products/portal/",
         "image": "/img/internships/light/solace.png",
         "imageDark": "/img/internships/dark/solace.png",
-        "role": "Software Developer - Summer 2020",
+        "role": "Software Developer - Summer 2020"
     },
     {
         "company": "Mitel Networks",
         "companyUrl": "https://mitel.help/latest/en/cloudlink-gateway/overview/what-is-cloudlink",
         "image": "/img/internships/light/mitel.png",
         "imageDark": "/img/internships/dark/mitel.png",
-        "role": "DevOps Engineer - Summer 2019",
+        "role": "DevOps Engineer - Summer 2019"
     }
 ]
