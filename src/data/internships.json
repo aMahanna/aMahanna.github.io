@@ -5,7 +5,6 @@
         "image": "/img/internships/light/arango.png",
         "imageDark": "/img/internships/dark/arango.png",
         "role": "Software Engineer - Fall 2021",
-        "description": "Designed ArangoDB adapters to support popular graph libraries. Developped ArangoDB's next benchmark analysis platform."
     },
     {
         "company": "Assent Compliance",
@@ -13,7 +12,6 @@
         "image": "/img/internships/light/assent.png",
         "imageDark": "/img/internships/dark/assent.png",
         "role": "DevOps Engineer - Summer 2021",
-        "description": "Optimized dev-env deployment automation. Integrated new analytics tooling to the Assent Compliance Platform."
     },
     {
         "company": "Solace Cloud",
@@ -21,7 +19,6 @@
         "image": "/img/internships/light/solace.png",
         "imageDark": "/img/internships/dark/solace.png",
         "role": "Software Developer - Summer 2020",
-        "description": "Contributed to the development & release of the Event Portal Service."
     },
     {
         "company": "Mitel Networks",
@@ -29,6 +26,5 @@
         "image": "/img/internships/light/mitel.png",
         "imageDark": "/img/internships/dark/mitel.png",
         "role": "DevOps Engineer - Summer 2019",
-        "description": "Designed & implemented CICD orchestration for CloudLink SDKs."    
     }
 ]
