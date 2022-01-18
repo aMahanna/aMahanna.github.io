@@ -1,11 +1,19 @@
 [
     {
+        "company": "ArangoDB",
+        "companyUrl": "https://www.arangodb.com/",
+        "image": "/img/internships/light/arango.png",
+        "imageDark": "/img/internships/dark/arango.png",
+        "role": "Software Engineer - Fall 2021",
+        "description": "Designed ArangoDB adapters to support popular graph libraries. Developped ArangoDB's next benchmark analysis platform."
+    },
+    {
         "company": "Assent Compliance",
         "companyUrl": "https://www.assentcompliance.com/compliance-software/",
         "image": "/img/internships/light/assent.png",
         "imageDark": "/img/internships/dark/assent.png",
         "role": "DevOps Engineer - Summer 2021",
-        "description": "Optimized deployment automation & integrated new analytics tooling for the Assent Compliance Platform."
+        "description": "Optimized dev-env deployment automation. Integrated new analytics tooling to the Assent Compliance Platform."
     },
     {
         "company": "Solace Cloud",
