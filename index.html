@@ -5,6 +5,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Anthony Mahanna</title>
   <link rel="stylesheet" href="style.css">
+  <script>
+    (function(){
+      // Base color (#FFF7B1) roughly -> H:54°, S:100%, L:84.7%
+      var baseS = 100;
+      var baseL = 84.7;
+      function randHue(){ return Math.floor(Math.random()*360); }
+      function clamp(v, a, b){ return Math.max(a, Math.min(b, v)); }
+      var h = randHue();
+      var s = clamp(Math.round(baseS + (Math.random()*20 - 10)), 75, 100);
+      var l = clamp(Math.round(baseL + (Math.random()*10 - 5)), 70, 92);
+      var c1 = 'hsl(' + h + ', ' + s + '%, ' + l + '%)';
+      var l2 = clamp(l + 4, 70, 96);
+      var c2 = 'hsl(' + h + ', ' + s + '%, ' + l2 + '%)';
+      document.documentElement.style.setProperty('--color-brand', c1);
+      document.documentElement.style.setProperty('--color-brand-alt', c2);
+    })();
+  </script>
 </head>
 <body>
   <main>
