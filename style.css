@@ -84,6 +84,7 @@ h1 {
         "URW Palladio L",
         P052,
         serif;
+    display: inline-block;
     color: var(--color-text);
     margin-bottom: 1.5em;
 }
@@ -122,10 +123,16 @@ h3 {
         "URW Palladio L",
         P052,
         serif;
+    width: fit-content;
     color: var(--color-text);
     text-align: center;
-    margin-top: 2em;
-    margin-bottom: 1em;
+    margin: 2em auto 1em;
+}
+
+h4 {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1[id],
